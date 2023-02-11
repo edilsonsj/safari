@@ -17,7 +17,7 @@ header {
 
 section {
     background-color: white;
-    width: 88vw;
+    max-width: 60vw;
     align-content: center;
     margin: auto;
     padding: 5%;
